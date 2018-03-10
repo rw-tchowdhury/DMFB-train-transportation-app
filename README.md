@@ -1,4 +1,4 @@
-# Interface Microcontroller Design and Prototype Demo for DMFB Train-like Mass Transportation
+# Interface Microcontroller Design and Prototype Demo in FPGA/ALTERA DE2 board for DMFB Train-like Mass Transportation
 
 System Introduction
 ===================
